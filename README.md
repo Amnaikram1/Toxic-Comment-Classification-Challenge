@@ -49,4 +49,3 @@ The logistic regression model outperformed Support Vector Machines, Multi-layer 
 
 ---
 
-This version corrects the grammatical and formatting errors in your original text and ensures consistency in style.
