@@ -1,5 +1,4 @@
 # Toxic Comment Classification Challenge with TF-IDF
-The project identifies and calculates the probability score of online toxic comments for each of six given categories: 'toxic', 'severe_toxic', 'obscene', 'threat', 'insult', 'identity_hate'.
 
 ## Table of Contents
 - [Introduction](#introduction)
